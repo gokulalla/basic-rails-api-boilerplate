@@ -56,7 +56,7 @@ group :development, :test do
 
   gem "factory_bot_rails"
 
-  gem "simplecov", "~> 0.22"
+  gem "simplecov", "~> 1.3"
 
   gem "factory_bot", "~> 6.6"
 
